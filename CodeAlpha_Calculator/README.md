@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CodeAlpha Calculator
 
 ## Project Overview
@@ -51,6 +51,5 @@ CodeAlpha_Calculator/
 
 ## Author
 Nandhini N
-=======
 # tasks
 >>>>>>> e5770de054d908b38d52d01a22d31cfb573f044f
