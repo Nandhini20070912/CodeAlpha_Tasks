@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamil Melody Music Player</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>🎵 Tamil Melody</h1>
+        <p>Feel the Music ❤️</p>
+
+        <div class="music-card">
+            <div class="cover">🎧</div>
+            <h2>Latest Tamil Hits</h2>
+            <p>Enjoy your favourite Tamil songs</p>
+            <div class="controls">
+    <button onclick="previousSong()">⏮</button>
+
+    <button onclick="playPause()" id="playBtn">
+        ▶
+    </button>
+
+    <button onclick="nextSong()">⏭</button>
+</div>
+
+            <iframe
+                src="https://open.spotify.com/embed/playlist/37i9dQZF1DWVo4cdnikh7Z?utm_source=generator"
+                width="100%"
+                height="380"
+                frameborder="0"
+                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                loading="lazy">
+            </iframe>
+        </div>
+
+        <footer>Made with ❤️ using HTML, CSS & JavaScript</footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
