@@ -131,7 +131,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-##   Screenshots
+##  📷 Screenshots
 
 Add screenshots  of:
     
