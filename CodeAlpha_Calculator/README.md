@@ -150,13 +150,13 @@ This project was developed as a learning project to gain practical experience in
 
  -----
 
-## Intership
+## 🏆 Intership
  
  This project was completed as part of th CodeAlpha Frontend Development Intership Program.
 
 -----
 
-##📌 Conclusion
+## 📌 Conclusion
 
 The Basic Calculator project was a valuable learning experience that helped me strengthen my knowledge of HTML, CSS, and JavaScript. Through this project, I successfully developed an interactive calculator with essential mathematical operations such as addition, subtraction, multiplication, and division.
 
